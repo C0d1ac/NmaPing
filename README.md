@@ -55,8 +55,9 @@ Here the user can ping any public IP address
 
 Check This Demo :
 
+<p align="center">
 https://github.com/Yaakb/NmaPing/assets/100728220/e0a7cf64-0db2-4527-8e90-d1b23192d525
-
+</p>
 
 
 
