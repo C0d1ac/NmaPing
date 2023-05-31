@@ -53,11 +53,7 @@ Here the user can ping any public IP address
 
 ## Demo 
 
-Check This Demo : 
-
-<video width="320" height="240" controls>
-  <source src="/assets/demo.mp4" type="video/mp4">
-</video>
+Check This Demo : ./assets/demo.mp4
 
 
 
