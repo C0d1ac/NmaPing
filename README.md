@@ -2,7 +2,7 @@
 <p align="center">
 <img src="/assets/logo.png" width="200" height="200">
 </p>
-**NmaPing** is an Android app that provides an easy-to-use and user-friendly interface for cybersecurity professionals, network professionals, or even casual users. It assists them in pinging publicly available hosts or scanning their ports.
+*NmaPing* is an Android app that provides an easy-to-use and user-friendly interface for cybersecurity professionals, network professionals, or even casual users. It assists them in pinging publicly available hosts or scanning their ports.
 
 # Usage
 Launching the app users will be greeted with the Login view, clicking the "Register" Button would take them to the register page on the right 
