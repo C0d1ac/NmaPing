@@ -12,3 +12,10 @@ Lunching the app users will be greeted with the Login view, clicking the "Regist
 </p>
 The login and register is hanlded by **firebase authentication**, 
 
+Logging into the App, users would get this view : 
+
+<p align="center">
+<img src="/assets/3.png" width="200" height="200">
+</p>
+
+
