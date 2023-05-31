@@ -3,4 +3,4 @@ NmaPing is an Android app that provides an easy-to-use and user-friendly interfa
 
 ## Usage
 Lunching the app users will be greeted with this pic
-![Screenshot](/assets/1.jpg)
+<img src="/assets/1.jpg" width="300" height="600">
