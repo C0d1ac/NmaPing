@@ -15,7 +15,7 @@ The login and register is hanlded by **firebase authentication**,
 Logging into the App, users would get this view : 
 
 <p align="center">
-<img src="/assets/3.png" width="200" height="200">
+<img src="/assets/3.jpg" width="300" height="600">
 </p>
 
 
